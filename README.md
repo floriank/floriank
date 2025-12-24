@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @floriank
+- 👋 Hi, I’m @floriank (I am also over at [CodeBerg](https://codeberg.org/floriank)
 - 👀 I’m interested in Rust, Elixir, Functional Programming in general and videogames.
-- 🌱 I’m currently learning OpenAPI Standards and a bit of Rust here and there :)
+- 🌱 I’m currently learning to toy with WASM and build stuff around it
 - 💞️ I’m looking to collaborate on nothing in particular, but if you need help, holler.
 - 📫 You can on various social networks and of course, here on GH 👇
 
